@@ -4,10 +4,10 @@ body {
 }
 
 #form {
-    width: 300px;
+    width: 350px;
     background-color: whitesmoke;
     border-radius: 4px;
-    margin: 20vh auto 0 auto;
+    margin: 10vh auto 0 auto;
     padding: 20px;
 }
 
@@ -19,12 +19,12 @@ body {
 .input-control {
     display: flex;
     flex-direction: column;
+    margin-bottom: 1em;
 }
 
 .input-control input {
     border: 2px solid #f0f0f0;
     border-radius: 4px;
-    margin-bottom: 1em;
     padding: 10px;
     font-size: 12px;
 }
